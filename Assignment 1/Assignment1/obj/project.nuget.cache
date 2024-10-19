@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2yIaBuKupQ=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\theon\\OneDrive\\سطح المكتب\\Assignment 1\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.10\\microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
